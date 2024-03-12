@@ -1,0 +1,65 @@
+/* Estilo para el header */
+.navbar-brand {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar-nav .nav-link {
+    color: #ffffff;
+    margin-right: 15px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #b3b3b3;
+}
+
+/* Estilo para el main */
+main {
+    padding: 50px 0;
+    background-color: #e8f5ff;
+    text-align: center;
+}
+
+h3 {
+    color: #343a40;
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+ol {
+    list-style-type: decimal;
+    color: #343a40;
+    font-size: 1.05rem;
+    font-family: 'Hind', sans-serif;
+    text-align: justify;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+.card-title {
+    color: #343a40;
+    font-size: 1.2rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.card-text {
+    color: #343a40;
+    font-size: 1rem;
+    line-height: 1.4;
+    font-family: 'Hind', sans-serif;
+}
+
+/* Estilo para el footer */
+footer {
+    background-color: #34495e;
+    color: #ffffff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+footer p {
+    margin: 0;
+}

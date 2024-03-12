@@ -1,0 +1,81 @@
+/* Estilo para el header */
+.navbar-brand {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+}
+
+.navbar-nav .nav-link {
+    color: #ffffff;
+    margin-right: 15px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #b3b3b3;
+}
+
+/* Estilo para el main */
+main {
+    padding: 50px 0;
+    background-color: #e8f5ff;
+}
+
+h2 {
+    color: #343a40;
+    font-size: 2rem;
+    margin-bottom: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+form {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-txt {
+    margin-bottom: 20px;
+    font-size: 0.9rem;
+    color: #343a40;
+}
+
+.input-group {
+    margin-bottom: 20px;
+}
+
+input[type="text"],
+textarea {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+}
+
+input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    background-color: #343a40;
+    color: #ffffff;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #5a6269;
+}
+
+/* Estilo para el footer */
+footer {
+    background-color: #34495e;
+    color: #ffffff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+footer p {
+    margin: 0;
+}
+

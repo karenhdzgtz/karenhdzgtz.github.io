@@ -1,0 +1,96 @@
+/* Estilo para el header*/
+.navbar-brand {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar-nav .nav-link {
+    color: #ffffff;
+    margin-right: 15px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #b3b3b3;
+}
+
+/* Estilo para el main */
+main {
+    padding: 50px 0;
+    background-color: #e8f5ff;
+    text-align: center; 
+}
+
+.welcome-message h2 {
+    color: #343a40;
+    margin-bottom: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.welcome-message h4 {
+    color: #343a40;
+    margin-bottom: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.welcome-message p {
+    color: #343a40;
+    line-height: 1.6;
+    text-align: justify;
+}
+
+.row:not(:first-child) {
+    margin-top: 50px;
+}
+
+.row:not(:first-child) img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+    max-height: 150px;
+}
+
+.row:not(:first-child) h2 {
+    color: #343a40;
+    margin-bottom: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.row:not(:first-child) h3 {
+    color: #343a40;
+    margin-bottom: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.row:not(:first-child) h5 {
+    color: #343a40;
+    margin-bottom: 10px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.row:not(:first-child) p {
+    color: #343a40;
+    line-height: 1.6;
+    text-align: justify;
+}
+
+.accordion-button {
+    background-color: #343a40;
+    color: #ffffff;
+}
+
+.accordion-button:not(.collapsed) {
+    background-color: #5a6269;
+}
+
+/* Estilo para el footer */
+footer {
+    background-color: #34495e;
+    color: #ffffff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+footer p {
+    margin: 0;
+}
+
